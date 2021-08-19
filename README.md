@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Shinbogyeong/Shinbogyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lay4U/Lay4U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinbogyeong)](https://github.com/Shinbogyeong/Shinbogyeong)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shinbogyeong)](https://github.com/Shinbogyeong/Shinbogyeong)
+
+https://lay4u.github.io/portfolio/
